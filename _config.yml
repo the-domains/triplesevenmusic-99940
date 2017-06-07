@@ -85,3 +85,7 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/41570bfb-6497-4c6d-bdfc-3a4678de9fe5.gif
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a138b88-2ffc-4543-b438-ea2969adb134.gif
+purpose:
+  - type: contact
+    url: 'mailto:contact@triplesevenmusic.net'
+    label: Contact me
