@@ -19,15 +19,69 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F128239666&url=https%3A%2F%2Fvimeo.com%2F128239666&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F519299749_295x166.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo"
+      width="480" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: James
+          url: 'https://vimeo.com/user40180559'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://vimeo.com/'
+        name: Vimeo
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+        domain: vimeo.com
+      keywords: []
+      description: >-
+        This is "Jazz week - Mobile.m4v" by James on Vimeo, the home for high
+        quality videos and the people who love them.
+      '@type': VideoObject
+      app_links:
+        - url: 'vimeo://app.vimeo.com/videos/128239666'
+          type: ios
+          namespace: ai
+          app_name: Vimeo
+          app_store_id: '425194759'
+        - should_fallback: 'true'
+          app_name: Vimeo
+          package: com.vimeo.android.videoapp
+          url: 'vimeo://app.vimeo.com/videos/128239666'
+          namespace: ai
+          type: web
+        - url: 'vimeo://app.vimeo.com/videos/128239666'
+          namespace: twitter
+          type: ipad
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/128239666'
+          namespace: twitter
+          type: iphone
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/128239666'
+          namespace: twitter
+          type: googleplay
+          name: Vimeo
+          id: com.vimeo.android.videoapp
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://vimeo.com/128239666'
+      title: Jazz week - Mobile.m4v
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: 777 Original Music
-description: Original Music For Original People
+description: ''
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/41570bfb-6497-4c6d-bdfc-3a4678de9fe5.gif
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a138b88-2ffc-4543-b438-ea2969adb134.gif
-purpose:
-  - type: contact
-    url: 'mailto:contact@triplesevenmusic.net'
-    label: Contact me
