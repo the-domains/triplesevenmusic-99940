@@ -1,0 +1,33 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: triplesevenmusic
+layout_spectrum: 0.34644636348821223
+typography_spectrum: 0.5043189763091505
+color:
+  brandStrength: 0.9531381253618747
+  lightness: 0.9824853378813714
+  saturation: 0.4290829251985997
+  rhythmicContrast: 0.5312809564638883
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+content: []
+title: 777 Original Music
+description: Original Music For Original People
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/41570bfb-6497-4c6d-bdfc-3a4678de9fe5.gif
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a138b88-2ffc-4543-b438-ea2969adb134.gif
+purpose:
+  - type: contact
+    url: 'mailto:contact@triplesevenmusic.net'
+    label: Contact me
